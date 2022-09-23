@@ -9,3 +9,7 @@ build:
 .PHONY: run
 run:
 	@build/robot
+
+.PHONY: test
+test:
+	@go test ./...

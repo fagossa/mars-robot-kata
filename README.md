@@ -9,7 +9,10 @@
 ```
 $ make install
 $ make build
+$ make test
 ```
+
+By the time being only care on making tests go Green!
 
 ## help! I'm getting errors ...
 
